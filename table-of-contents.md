@@ -1,7 +1,7 @@
 ---
 layout: toc
-title: Atomic Design
-chapterSubtitle: Table of Contents
+title: Atomic Design (JA)
+chapterSubtitle: 目次
 permalink: /table-of-contents/
 ---
 

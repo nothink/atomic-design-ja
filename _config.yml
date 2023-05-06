@@ -1,13 +1,13 @@
 # Site settings
-title: Atomic Design by Brad Frost
+title: Atomic Design by Brad Frost (JA)
 email: brad@bradfrost.com
 description: > # this means to ignore newlines until "baseurl:"
-  Learn how to create and maintain digital design systems, allowing your team to roll out higher quality, more consistent UIs faster than ever before.
+  デジタルデザインシステムの構築・維持手法を学び、チームがより高品質で一貫性のある UI をかつてないほど迅速に公開できるように。
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://bradfrost.com" # the base hostname & protocol for your site
+url: "https://bradfrost.com" # the base hostname & protocol for your site
 twitter_username: brad_frost
 github_username:  bradfrost
-product_link: http://shop.bradfrost.com
+product_link: https://shop.bradfrost.com
 
 # Build settings
 markdown: kramdown

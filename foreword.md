@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Foreword
-chapterSubtitle: By Josh Clark and Dan Mall
+title: 序文
+chapterSubtitle: Josh Clark と Dan Mall 著
 permalink: /foreword/
 nextChapter: /chapter-1/
 ---

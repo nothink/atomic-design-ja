@@ -6,17 +6,18 @@ permalink: /foreword/
 nextChapter: /chapter-1/
 ---
 
-It was 2013, and we huddled with Brad Frost and Jennifer Brook around a sunlit kitchen table in Brooklyn. The four of us had just begun work on a new website for TechCrunch, and we were sketching wireframes in Jennifer’s apartment, wrestling with the new demands of responsive design. Brad pulled out his laptop: “I’ve been playing with a new idea.”
+2013年、ブルックリンの陽のあたるキッチンテーブルを囲んで、僕らは Brad Frost と Jennifer Brook と肩を寄せ合っていた。
+僕たち4人は TechCrunch の新しいウェブサイトの制作を始めたばかりで、Jennifer のアパートでワイヤーフレームをスケッチし、レスポンシブデザインの新しい要求と格闘していました。Brad は自分のノートパソコンを取り出しました。「新しいアイデアを試してみたんだ」
+
+Brad が開いた画面の上は、ウェブページが爆発したようだった。そこでは UI の断片が統一されたデザインや階層に縛られることなく、互いに独立して存在していた。それは、ウェブにあるガレージの予備部品の山のようにも見えた。
+
+Brad はクレイジーな笑みを浮かべて「最高だろ？」とうなずいた。僕たちは3人とも、無表情で見つめ返した。誰かが咳払いをした。
 
 
-Brad’s screen looked like a webpage had exploded. Bits and pieces of UI floated free of each other, untethered by a unified design or hierarchy. It looked like a pile of spare parts from a web garage.
-
-
-Brad flashed his crazy grin and nodded, “Great, right?” The three of us stared back blankly. Somebody coughed.
-
-
-And then Brad Frost the front-end developer started talking like Brad Frost the chemist. He talked about atoms and molecules and organisms—about how large pieces of design can be broken down into smaller ones and even recombined into different large pieces. Instead of visualizing the finished recipe for the design, in other words, he was showing us the ingredients. And we lit up: this was a shift in perspective, a way to move away from conceiving a website design as a collection of static page templates, and instead as a dynamic system of adaptable components. It was an inspired way to approach this responsive website—and all responsive projects for that matter.
-
+そして、フロントエンド開発者のはずの Brad Frost は、まるで化学者の Brad Frost のように話し始めた。
+彼は原子や分子や有機体について話し始めた — 大きなデザインを小さなデザインに分解し、さらには異なる大きなデザインに再結合することができるということだ。つまり、デザインの完成レシピを視覚化することなしに、その材料を見せてくれたのだ。
+僕たちは目を輝かせた。これはウェブサイトデザインを静的なページテンプレートの集合体として考えるのではなく、適応可能なコンポーネントの動的なシステムとして考えるという、視点の転換であった。
+このアイディアは、製作中のレスポンシブなウェブサイトの制作に取り組むためのインスピレーションになった。そして、すべてのレスポンシブなプロジェクトにとってもそうだった。
 
 Brad’s new idea was atomic design, and it changed the way we work in this astonishingly multi-device world. By thinking about interfaces simultaneously at both the large (page) level as well as the small (atomic) level, we streamlined our process: we introduced more rigorous thought into the role of every element; we fell into habits that improved the consistency of our UX; and crucially, we started working much faster and more collaboratively. Atomic design was our superpower.
 

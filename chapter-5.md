@@ -194,9 +194,9 @@ In addition to informal day-to-day conversation between makers and users, **sche
 ### Making changes to patterns
 A critical part of design system maintenance is ensuring that UI patterns stay up to date, embrace evolving design and development best practices, and continue to address the real needs of the organization.
 
-Developing a strategy for handling pattern changes is crucial, which is why Inayaili de León Persson and the Canonical web team spent time to map out their strategy as they created the [Vanilla front-end framework](http://ubuntudesign.github.io/vanilla-framework/).
+Developing a strategy for handling pattern changes is crucial, which is why Inayaili de León Persson and the Canonical web team spent time to map out their strategy as they created the [Vanilla front-end framework](https://ubuntudesign.github.io/vanilla-framework/).
 
-> We thought that it would be good to document the process that a pattern should follow in order to become a Vanilla pattern, so after a little bit of brainstorming, we created a diagram that shows the different steps that should be taken from before submitting a pattern proposal to its full acceptance as a Vanilla pattern. <cite><a href="http://design.canonical.com/2016/07/getting-vanilla-ready-for-v1-the-roadmap/">Inayaili de León Persson, Canonical</a>
+> We thought that it would be good to document the process that a pattern should follow in order to become a Vanilla pattern, so after a little bit of brainstorming, we created a diagram that shows the different steps that should be taken from before submitting a pattern proposal to its full acceptance as a Vanilla pattern. <cite><a href="https://design.canonical.com/2016/07/getting-vanilla-ready-for-v1-the-roadmap/">Inayaili de León Persson, Canonical</a>
 
 The result is a gorgeous decision tree that maps out exactly what processes need to happen to add a new pattern to the design system.
 
@@ -231,7 +231,7 @@ Having a plan for deprecating patterns is a great idea. But how do you remove pa
 ## Make it maintainable
 With all this talk about modifying, adding, and removing patterns, you may be wondering, "How the hell are our applications supposed to actually keep up with all these changes?!" And in asking that question, you will have stumbled on to one of the biggest challenges organizations face in successfully maintaining a design system.
 
-> The biggest existential threat to any system is neglect. <cite><a href="http://airbnb.design/the-way-we-build/">Alex Schleifer, Airbnb</a>
+> The biggest existential threat to any system is neglect. <cite><a href="https://airbnb.design/the-way-we-build/">Alex Schleifer, Airbnb</a>
 
 Many systems fall into a state of disrepair because the effort required to make updates is far too high. If it's difficult and time-consuming to update patterns, documentation, and applications, people will eventually get so frustrated that they stop making the effort and the design system will begin its drift into oblivion. **Making updates to UI patterns, documentation, and applications should be as frictionless as possible**, so reducing this friction should become a high priority for the design system team. This involves careful consideration from both technological and workflow standpoints.
 
@@ -247,7 +247,7 @@ Many systems fall into a state of disrepair because the effort required to make 
 
 This technique removes any duplication of effort and ensures the pattern library and the applications using the patterns remain synchronized. Sounds like a dream, right?
 
-As it turns out, this dream can be a reality. Lonely Planet, the travel guide company, was one of the first to establish a holy grail design system called [Rizzo](http://rizzo.lonelyplanet.com/). Through some smart architecture, they created an API for their UI patterns that feeds into their production environment as well as their pattern library. The result is a centralized design system that ensures their live application and documentation remain perfectly in sync.
+As it turns out, this dream can be a reality. Lonely Planet, the travel guide company, was one of the first to establish a holy grail design system called [Rizzo](https://rizzo.lonelyplanet.com/). Through some smart architecture, they created an API for their UI patterns that feeds into their production environment as well as their pattern library. The result is a centralized design system that ensures their live application and documentation remain perfectly in sync.
 
 <figure>
     <img src="../images/content/rizzo.png" alt="Lonely Planet created an API for its UI patterns that is consumed by both their pattern library and production environment. By constructing their design system in this manner, changes to UI patterns are automatically reflected in both the pattern library and production environment." />
@@ -268,7 +268,7 @@ In his article “[Chasing the Holy Grail*](https://medium.com/@marcelosomers/ch
 
 In my experience, I've found that sharing CSS and presentational JavaScript with production environments is relatively easy, while sharing markup is tough. Because CSS and JavaScript tend to get compiled into a single file (or perhaps a handful of files), it becomes possible to throw them onto a CDN and then simply link to those files in each application. Marcelo explains how to do this while keeping versioning in mind:
 
-> You’d provide development teams with a versioned URL (e.g., http://mycdn.com/1.3.5/styles.css) and upgrading is as simple as bumping the version number in the URL. <cite><a href="https://medium.com/@marcelosomers/chasing-the-holy-grail-bbc0b7cce365#.ay1xeej7d">Marcelo Somers</a>
+> You’d provide development teams with a versioned URL (e.g., https://mycdn.com/1.3.5/styles.css) and upgrading is as simple as bumping the version number in the URL. <cite><a href="https://medium.com/@marcelosomers/chasing-the-holy-grail-bbc0b7cce365#.ay1xeej7d">Marcelo Somers</a>
 
 Sharing CSS and JavaScript is all well and good, but where things get tricky is when you want to share markup between environments. Why? you ask. Well, markup and back-end logic are often intertwined in an application's codebase, which tends to make it difficult to simply copy and paste markup between your pattern library and production environments. Thankfully, there are ways around this problem.
 
@@ -284,7 +284,7 @@ Using HTML templating languages (such as Mustache, Handlebars, Twig, Underscore,
 	</figcaption>
 </figure>
 
-The team at Phase2 Technology achieved the holy grail by using Pattern Lab as their pattern library development tool and [Drupal](https://www.drupal.org) as their content management system. Because both Pattern Lab and Drupal support the popular [Twig](http://twig.sensiolabs.org) templating engine, Phase2 is able to easily share patterns between the two environments, ensuring their clients’ pattern libraries and production builds are always in step with each other.
+The team at Phase2 Technology achieved the holy grail by using Pattern Lab as their pattern library development tool and [Drupal](https://www.drupal.org) as their content management system. Because both Pattern Lab and Drupal support the popular [Twig](https://twig.sensiolabs.org) templating engine, Phase2 is able to easily share patterns between the two environments, ensuring their clients’ pattern libraries and production builds are always in step with each other.
 
 > By using the same templating engine, along with the help of the Component Libraries Drupal Module, the tool gives Drupal the ability to directly include, extend, and embed the Twig templates that Pattern Lab uses for its components without any template duplication at all! <cite><a href="https://www.phase2technology.com/blog/introducing-pattern-lab-starter-8/">Evan Lovely, Phase2 Technology</a>
 
@@ -426,9 +426,9 @@ In addition to making important documentation easier to access, a public style g
 
 Public-facing style guides are also **hugely helpful for recruiting**. Designers, developers, and people working in other disciplines want to work for organizations that embrace modern digital best practices, and (as we've discussed throughout this book) design systems are quickly becoming an industry-wide best practice. Publishing your style guide sends out a strong Bat-Signal that can attract passionate, pattern-minded people. For instance, style guide expert Jina Bolton went to work at Salesforce after seeing the company's style guide for their Salesforce1 product.
 
-> When I saw [Salesforce’s style guide] I thought it was beautiful and it's why I wanted to join this team. <cite><a href="http://styleguides.io/podcast/jina-bolton/">Jina Bolton</a>
+> When I saw [Salesforce’s style guide] I thought it was beautiful and it's why I wanted to join this team. <cite><a href="https://styleguides.io/podcast/jina-bolton/">Jina Bolton</a>
 
-Since joining Salesforce, she's helped create the ultra-successful Lightning Design System and helps manage their growing design system team. Jina's story is not an isolated one; almost every guest Anna Debenham and I interviewed on the [Styleguides Podcast](http://styleguides.io/podcast) discussed how helpful their public-facing pattern library was for attracting talent. All that means your public style guide makes your organization *more* competitive, not less.
+Since joining Salesforce, she's helped create the ultra-successful Lightning Design System and helps manage their growing design system team. Jina's story is not an isolated one; almost every guest Anna Debenham and I interviewed on the [Styleguides Podcast](https://styleguides.io/podcast) discussed how helpful their public-facing pattern library was for attracting talent. All that means your public style guide makes your organization *more* competitive, not less.
 
 ## Make it bigger
 A visible, cross-disciplinary, approachable pattern library is one that your team will come back to again and again. Use that to your advantage. Since the team's eyeballs are already fixated on that one resource, there's a big opportunity to extend it to include other helpful documentation like the voice and tone, brand, code, design principles and writing guidelines we discussed in [chapter 1](/chapter-1/).

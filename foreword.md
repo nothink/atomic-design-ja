@@ -42,4 +42,4 @@ Given the chance, Brad would knock on the door of every designer and developer t
 Atomic design is blowing up around the world; it transformed our design practice; and we’re excited for it to bring the same creative combustion to your process, too.
 
 
-—_[Josh Clark](https://bigmedium.com/) and [Dan Mall](http://danielmall.com/), Brad’s frequent collaborators and his biggest fans_
+—_[Josh Clark](https://bigmedium.com/) and [Dan Mall](https://danielmall.com/), Brad’s frequent collaborators and his biggest fans_

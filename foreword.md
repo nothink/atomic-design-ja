@@ -7,7 +7,7 @@ nextChapter: /chapter-1/
 ---
 
 2013年、ブルックリンの陽のあたるキッチンテーブルを囲んで、僕らは Brad Frost と Jennifer Brook と肩を寄せ合っていた。
-僕たち4人は TechCrunch の新しいウェブサイトの制作を始めたばかりで、Jennifer のアパートでワイヤーフレームをスケッチし、レスポンシブデザインの新しい要求と格闘していました。Brad は自分のノートパソコンを取り出しました。「新しいアイデアを試してみたんだ」
+僕たち4人は TechCrunch の新しいウェブサイトの制作を始めたばかりで、Jennifer のアパートでワイヤーフレームをスケッチし、レスポンシブデザインの新しい要求と格闘していた。Brad は自分のノートパソコンを取り出して言った「新しいアイデアを試してみたんだ」。
 
 Brad が開いた画面の上は、ウェブページが爆発したようだった。そこでは UI の断片が統一されたデザインや階層に縛られることなく、互いに独立して存在していた。それは、ウェブにあるガレージの予備部品の山のようにも見えた。
 
@@ -19,7 +19,7 @@ Brad はクレイジーな笑みを浮かべて「最高だろ？」とうなず
 僕たちは目を輝かせた。これはウェブサイトデザインを静的なページテンプレートの集合体として考えるのではなく、適応可能なコンポーネントの動的なシステムとして考えるという、視点の転換であった。
 このアイディアは、製作中のレスポンシブなウェブサイトの制作に取り組むためのインスピレーションになった。そして、すべてのレスポンシブなプロジェクトにとってもそうだった。
 
-Brad’s new idea was atomic design, and it changed the way we work in this astonishingly multi-device world. By thinking about interfaces simultaneously at both the large (page) level as well as the small (atomic) level, we streamlined our process: we introduced more rigorous thought into the role of every element; we fell into habits that improved the consistency of our UX; and crucially, we started working much faster and more collaboratively. Atomic design was our superpower.
+Brad のこの新しいアイディアは Atomic Design と言い、この驚くべきマルチデバイスの世界で僕たちが働く方法を変えた。ページという大きな単位のデザインと、原子的な小さな単位のデザインを同時に意識することで、僕たちはプロセスを合理化した。すべての要素の役割についてより厳密に考えるようになり、UX の一貫性を高める習慣が身につき、より重要なのは、より速く、より協力的に働くようになった。Atomic Design は僕たちの強大な力となった。
 
 
 In the early stages of the TechCrunch redesign, there was this moment where we talked about what we wanted the article page to be. Within an hour, Brad had a fully responsive version wired up from his kit of parts. That was the moment we realized just how quickly we were going to be able to move, a powerful case for investing in this clever, modular approach.

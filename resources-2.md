@@ -10,22 +10,22 @@ permalink: /other-resources/
 ## Tools used to make this book
 
 ### Writing
-- [IA Writer](http://www.iawriter.com/mac/)
+- [IA Writer](https://www.iawriter.com/mac/)
 
 ### Website
-- [Jekyll](http://jekyllrb.com/)
-- [Pattern Lab](http://patternlab.io/)
+- [Jekyll](https://jekyllrb.com/)
+- [Pattern Lab](https://patternlab.io/)
 - [DeployBot](https://deploybot.com/)
-- [Github](http://github.com)
+- [Github](https://github.com)
 
 And this is a list of resources people have brought to my attention during the creation of this book:
 
 ## Book Making and Marketing Resources
-- [Bitbooks](http://bitbooks.cc/)
+- [Bitbooks](https://bitbooks.cc/)
 - [Gitbook](https://www.gitbook.com/)
 - [LeanPub](https://leanpub.com/)
 - [Sitepoint Liveupdate](https://learnable.com/liveupdate)
-- [ConvertKit](http://convertkit.com/)
-- [Coding a Book](http://larahogan.me/blog/coding-a-book/)
+- [ConvertKit](https://convertkit.com/)
+- [Coding a Book](https://larahogan.me/blog/coding-a-book/)
 - [Scrivener](https://www.literatureandlatte.com/scrivener.php)
-- [YOURLS](http://yourls.org/)
+- [YOURLS](https://yourls.org/)

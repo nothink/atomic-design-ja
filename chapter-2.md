@@ -7,7 +7,7 @@ permalink: /chapter-2/
 nextChapter: /chapter-3/
 ---
 
-My search for a methodology to craft interface design systems led me to look for inspiration in other fields and industries. Given this amazingly complex world we've created, it seemed only natural that other fields would have tackled similar problems we could learn from and appropriate. As it turns out, loads of other fields [such as industrial design and architecture](http://us5.campaign-archive1.com/?u=7e093c5cf4&id=ead8a72012&e=ecb25a3f93) have developed smart modular systems for manufacturing immensely complex objects like airplanes, ships, and skyscrapers.
+My search for a methodology to craft interface design systems led me to look for inspiration in other fields and industries. Given this amazingly complex world we've created, it seemed only natural that other fields would have tackled similar problems we could learn from and appropriate. As it turns out, loads of other fields [such as industrial design and architecture](https://us5.campaign-archive1.com/?u=7e093c5cf4&id=ead8a72012&e=ecb25a3f93) have developed smart modular systems for manufacturing immensely complex objects like airplanes, ships, and skyscrapers.
 
 But my original explorations kept creeping back to the natural world, which triggered memories of sitting at a rickety desk in my high school's chemistry lab.
 
@@ -183,7 +183,7 @@ Another important characteristic of templates is that they **focus on the page's
 
 Mark Boulton discusses the importance of defining the underlying content structure of a page:
 
-> You can create good experiences without knowing the content. What you can’t do is create good experiences without knowing your content structure. What is your content *made* from, not what your content *is*. <cite>[Mark Boulton](http://www.markboulton.co.uk/journal/structure-first-content-always)</cite>
+> You can create good experiences without knowing the content. What you can’t do is create good experiences without knowing your content structure. What is your content *made* from, not what your content *is*. <cite>[Mark Boulton](https://www.markboulton.co.uk/journal/structure-first-content-always)</cite>
 
 By defining a page's skeleton we're able to create a system that can account for a variety of dynamic content, all while providing needed guardrails for the types of content that populate certain design patterns. For example, the homepage template for Time Inc. shows a few key components in action while also demonstrating content structure regarding image sizes and character lengths:
 
@@ -258,7 +258,7 @@ So why go through all this rigamarole? What's atomic design good for? These are 
 
 In his book <cite>The Shape of Design</cite>, Frank Chimero beautifully articulates the power this traversal provides:
 
-> The painter, when at a distance from the easel, can assess and analyze the whole of the work from this vantage. He scrutinizes and listens, chooses the next stroke to make, then approaches the canvas to do it. Then, he steps back again to see what he’s done in relation to the whole. It is a dance of switching contexts, a pitter-patter pacing across the studio floor that produces a tight feedback loop between mark-making and mark-assessing. <cite>[Frank Chimero](http://read.shapeofdesignbook.com/chapter01.html)</cite>
+> The painter, when at a distance from the easel, can assess and analyze the whole of the work from this vantage. He scrutinizes and listens, chooses the next stroke to make, then approaches the canvas to do it. Then, he steps back again to see what he’s done in relation to the whole. It is a dance of switching contexts, a pitter-patter pacing across the studio floor that produces a tight feedback loop between mark-making and mark-assessing. <cite>[Frank Chimero](https://read.shapeofdesignbook.com/chapter01.html)</cite>
 
 Atomic design lets us dance between contexts like the painter Frank so eloquently describes. The atoms, molecules, and organisms that comprise our interfaces do not live in a vacuum. And our interfaces' templates and pages are indeed composed of smaller parts. The parts of our designs influence the whole, and the whole influences the parts. The two are intertwined, and atomic design embraces this fact.
 
@@ -269,7 +269,7 @@ Atomic design provides us a structure to navigate between the parts and the whol
 ### Clean separation between structure and content
 Discussing *design* and *content* is a bit like discussing the *chicken* and the *egg*. Mark Boulton explains:
 
-> Content needs to be structured and structuring alters your content, designing alters content. It’s not ‘content then design’, or ‘content or design’. It’s ‘content and design’. <cite>[Mark Boulton](http://www.markboulton.co.uk/journal/structure-first-content-always)</cite>
+> Content needs to be structured and structuring alters your content, designing alters content. It’s not ‘content then design’, or ‘content or design’. It’s ‘content and design’. <cite>[Mark Boulton](https://www.markboulton.co.uk/journal/structure-first-content-always)</cite>
 
 A well-crafted design system caters to the content that lives inside it, and well-crafted content is aware of how it's presented in the context of a UI. The interface patterns we establish must accurately reflect the nature of the text, images, and other content that live inside them. Similarly, our content should be aware of the manner in which it will be presented. The close relationship between content and design requires us to consider both as we construct our UIs.
 

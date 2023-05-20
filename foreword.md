@@ -36,10 +36,9 @@ Atomic design はスピードと創造的な自由と柔軟性を与えてくれ
 Brad のエネルギーとウェブとその創造者への大きな愛情は、無限大だ。数年間、Brad はレスポンシブデザインの技術の最前線で働いてきた。そして、その過程で得たすべてを共有してきた。彼のサイト [This Is Responsive](https://bradfrost.github.io/this-is-responsive/) は、どんな UX の問題にもレスポンシブな解決策を見つけるための鉄板リソースだ。彼のブログと Twitter は、彼の道にあった障害とその解決策を共有してくれる。デザイナーや開発者が Brad Frost をフォローすると、美しく強靭なウェブサイトを構築するための実践的で情熱的な洞察が、速くて濃密なストリームとして届く。この本は、それらすべてを倍増させてくれる。
 
 
-Given the chance, Brad would knock on the door of every designer and developer to personally deliver his message. We’ve watched with astonishment (and mild envy) as this whirling dervish has barnstormed around the globe to share his advice with hundreds of teams and organizations across six continents. (_Atomic design, coming soon to Antarctica!_) But even Brad Frost can’t be everywhere at once, and we’re delighted that he’s detailed his ideas with such depth and good humor in this book.
+機会があれば、Brad は全てのデザイナーや開発者のドアをノックして、自分のメッセージを直接伝えてくれるだろう。僕たちは、この渦中の人物が、6大陸にわたって何百ものチームや組織と共に自分のアドバイスを共有するために世界中を飛び回っているのを、驚き（と、少しの羨望）の眼差しで見守ってきた。 (_Atomic design はもうすぐ南極にもやってくるよ!_)しかし、Brad Frost でさえ、一度にどこにでもいることはできない。そして、この本で彼が自分のアイディアを深く、そしてユーモアを交えて詳細に説明してくれたことを、僕たちはとても嬉しく思っている。
 
 
-Atomic design is blowing up around the world; it transformed our design practice; and we’re excited for it to bring the same creative combustion to your process, too.
+Atomic design は世界中で爆発的に広まっている。それは僕たちの実践デザインを一変させた。そして、あなたのプロセスにも同じような創造的な爆発をもたらしてくれることを、僕たちはとても楽しみにしている。
 
-
-—_[Josh Clark](https://bigmedium.com/) and [Dan Mall](https://danielmall.com/), Brad’s frequent collaborators and his biggest fans_
+—_[Josh Clark](https://bigmedium.com/) と [Dan Mall](https://danielmall.com/), Brad の頻繁な協力者で彼の最大のファン_

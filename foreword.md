@@ -22,19 +22,19 @@ Brad はクレイジーな笑みを浮かべて「最高だろ？」とうなず
 Brad のこの新しいアイディアは Atomic Design と言い、この驚くべきマルチデバイスの世界で僕たちが働く方法を変えた。ページという大きな単位のデザインと、原子的な小さな単位のデザインを同時に意識することで、僕たちはプロセスを合理化した。すべての要素の役割についてより厳密に考えるようになり、UX の一貫性を高める習慣が身につき、より重要なのは、より速く、より協力的に働くようになった。Atomic Design は僕たちの強大な力となった。
 
 
-In the early stages of the TechCrunch redesign, there was this moment where we talked about what we wanted the article page to be. Within an hour, Brad had a fully responsive version wired up from his kit of parts. That was the moment we realized just how quickly we were going to be able to move, a powerful case for investing in this clever, modular approach.
+TechCrunch のリデザインの初期段階で、僕たちは記事ページをどうしたいかについて話し合った。1時間も経たないうちに、Brad は自分のパーツキットから完全にレスポンシブなバージョンのワイヤーフレームを作り上げた。これで僕たちがどれだけ速く実装できるかに気づき、この賢いモジュール式なアプローチに投資するための強力なケーススタディとなった。
 
 
-Almost four years later, we haven’t looked back. Brad continued to refine his techniques and tools over the projects that followed, including blockbuster sites for Entertainment Weekly and Time, Inc. We’ve used these lessons to help in-house product teams make sites faster and with higher quality, build massive design systems for organizations looking to centralize their design and development work across international offices, and much more.
+それから約4年間、僕らはこのアイディアを追求し続けてきた。Brad は、その後もこの技術とツールを磨き続け、Entertainment Weekly や Time, Inc. などの大規模なサイトの制作にも活かしてきた。僕たちは、このアイディアを使って、企業内のプロダクトチームがより速く、より高品質なサイトを制作するのを助けたり、国際的なオフィス間でデザインと開発の作業を集約することを目指す組織のために大規模なデザインシステムを構築したりしてきた。
 
+Atomic design はスピードと創造的な自由と柔軟性を与えてくれた。すべてを変えてくれた。きっと、あなたにも同じことをしてくれるだろう。
 
-Atomic design gave us speed, creative freedom, and flexibility. It changed everything. We think it will do the same for you, too.
-
-
-This wonderful book explains the philosophy, practice, and maintenance of atomic design systems. And it does so with the cheerful, helpful generosity that so describes Brad himself.
+この素晴らしい本は、Atomic Design システムの哲学と実践とメンテナンスを説明してくれる。そして、それを Brad 本人のような陽気で親切な寛大さで行ってくれる。
 
 
 Brad’s energy and big-hearted enthusiasm for the web and its makers are boundless. For years, Brad has worked at the forefront of responsive design technique—and he’s shared everything along the way. His This Is Responsive site is the go-to resource for finding responsive solutions to any UX problem. His blog and Twitter feeds share his roadblocks and his solutions. When designers and developers follow Brad Frost, they get a fast and dense stream of practical, passionate insight for building beautiful and resilient websites. This book doubles down on all of that.
+
+Brad のエネルギーとウェブとその創造者への大きな愛情は、無限大だ。数年間、Brad はレスポンシブデザインの技術の最前線で働いてきた。そして、その過程で得たすべてを共有してきた。彼のサイト [This Is Responsive](https://bradfrost.github.io/this-is-responsive/) は、どんな UX の問題にもレスポンシブな解決策を見つけるための鉄板リソースだ。彼のブログと Twitter は、彼の道にあった障害とその解決策を共有してくれる。デザイナーや開発者が Brad Frost をフォローすると、美しく強靭なウェブサイトを構築するための実践的で情熱的な洞察が、速くて濃密なストリームとして届く。この本は、それらすべてを倍増させてくれる。
 
 
 Given the chance, Brad would knock on the door of every designer and developer to personally deliver his message. We’ve watched with astonishment (and mild envy) as this whirling dervish has barnstormed around the globe to share his advice with hundreds of teams and organizations across six continents. (_Atomic design, coming soon to Antarctica!_) But even Brad Frost can’t be everywhere at once, and we’re delighted that he’s detailed his ideas with such depth and good humor in this book.

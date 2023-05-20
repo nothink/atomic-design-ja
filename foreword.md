@@ -32,8 +32,6 @@ Atomic design はスピードと創造的な自由と柔軟性を与えてくれ
 この素晴らしい本は、Atomic Design システムの哲学と実践とメンテナンスを説明してくれる。そして、それを Brad 本人のような陽気で親切な寛大さで行ってくれる。
 
 
-Brad’s energy and big-hearted enthusiasm for the web and its makers are boundless. For years, Brad has worked at the forefront of responsive design technique—and he’s shared everything along the way. His This Is Responsive site is the go-to resource for finding responsive solutions to any UX problem. His blog and Twitter feeds share his roadblocks and his solutions. When designers and developers follow Brad Frost, they get a fast and dense stream of practical, passionate insight for building beautiful and resilient websites. This book doubles down on all of that.
-
 Brad のエネルギーとウェブとその創造者への大きな愛情は、無限大だ。数年間、Brad はレスポンシブデザインの技術の最前線で働いてきた。そして、その過程で得たすべてを共有してきた。彼のサイト [This Is Responsive](https://bradfrost.github.io/this-is-responsive/) は、どんな UX の問題にもレスポンシブな解決策を見つけるための鉄板リソースだ。彼のブログと Twitter は、彼の道にあった障害とその解決策を共有してくれる。デザイナーや開発者が Brad Frost をフォローすると、美しく強靭なウェブサイトを構築するための実践的で情熱的な洞察が、速くて濃密なストリームとして届く。この本は、それらすべてを倍増させてくれる。
 
 

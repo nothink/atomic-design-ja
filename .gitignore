@@ -8,3 +8,7 @@ _site
 vendor
 Gemfile.lock
 .jekyll-metadata
+
+pnpm-lock.yaml
+yarn.lock
+.cache

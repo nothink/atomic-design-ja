@@ -104,14 +104,14 @@ What interface element categories should be captured? Obviously, the categories 
 - **Forms**: inputs, text areas, select menus, checkboxes, switches, radio buttons, sliders, and other forms of user input.
 - **Buttons**: buttons are the quintessential UI element. Capture all the unique button patterns found throughout the experience: primary, secondary, big, small, disabled, active, loading, and even buttons that look like text links.
 - **Headings**: `h1`, `h2`, `h3`, `h4`, `h5`, `h6` and variations of typographic headings.
-- **Blocks**: also known as touts, callouts, summaries, ads, or hero units, *blocks* are collections of typographic headings and/or images and/or summary text (see Nicole Sullivan’s write-up about the *[media object](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)* as an example of a block).
+- **Blocks**: also known as touts, callouts, summaries, ads, or hero units, *blocks* are collections of typographic headings and/or images and/or summary text (see Nicole Sullivan’s write-up about the *[media object](https://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)* as an example of a block).
 - **Lists**: unordered, ordered, definition, bulleted, numbered, lined, striped, or any group of elements presented in a list-type format.
 - **Interactive components**: accordions, tabs, carousels, and other functional modules with moving parts.
 - **Media**: video players, audio players and other rich media elements.
-- **Third-party components**: widgets, iframes, stock tickers, social buttons, [invisible tracking scripts](http://bradfrost.com/blog/post/surfacing-invisible-elements/), and anything else that isn’t hosted on your domain.
+- **Third-party components**: widgets, iframes, stock tickers, social buttons, [invisible tracking scripts](https://bradfrost.com/blog/post/surfacing-invisible-elements/), and anything else that isn’t hosted on your domain.
 - **Advertising**: all ad formats and dimensions.
 - **Messaging**: alerts, success, errors, warnings, validation, loaders, popups, tooltips, and so on. This can be a challenging category to capture as messaging often requires user action to expose.
-- **Colors**: capture all unique colors presented in the interface. This category can be aided by fantastic style guide bootstrapping tools like [CSS Stats](http://cssstats.com/) and [Stylify Me](http://stylifyme.com/).
+- **Colors**: capture all unique colors presented in the interface. This category can be aided by fantastic style guide bootstrapping tools like [CSS Stats](https://cssstats.com/) and [Stylify Me](https://stylifyme.com/).
 - **Animation**: animation is an elemental aspect of user interfaces, and should therefore be documented. This requires using screen recording software such as QuickTime to capture any UI element that moves, fades, shakes, transitions, or shimmies across the screen.
 
 <figure>
@@ -179,7 +179,7 @@ Just how we build things like performance, accessibility, and responsiveness int
 
 In fact, **to create the whole, you need to create the parts of that whole**. Our interfaces consist of smaller pieces, whether you pay those smaller pieces any mind or not.
 
-You have a decision to make: focus solely on creating the whole while ignoring the parts, or spend some time organizing the parts to help you more efficiently create the whole. In his book <cite>*[Multiscreen UX Design](http://store.elsevier.com/Multiscreen-UX-Design/Wolfram-Nagel/isbn-9780128027295/)*</cite>, Wolfram Nagel wonderfully articulates these approaches using Lego bricks as an analogy.
+You have a decision to make: focus solely on creating the whole while ignoring the parts, or spend some time organizing the parts to help you more efficiently create the whole. In his book <cite>*[Multiscreen UX Design](https://store.elsevier.com/Multiscreen-UX-Design/Wolfram-Nagel/isbn-9780128027295/)*</cite>, Wolfram Nagel wonderfully articulates these approaches using Lego bricks as an analogy.
 
 One way to approach a Lego project is to simply dump the pieces out of the box onto a table, roll up your sleeves, then start building your creation.
 
@@ -234,7 +234,7 @@ Design in the print world focuses heavily on visual aesthetics. After all, you c
 
 These additional design considerations are vital for creating great digital work, yet they are too often absent from our processes and workflows. Designer Dan Mall explains:
 
-> As an industry, we sell websites like paintings. Instead, we should be selling beautiful and easy access to content, agnostic of device, screen size, or context. <cite>[Dan Mall](http://danielmall.com/articles/the-post-psd-era/)</cite>
+> As an industry, we sell websites like paintings. Instead, we should be selling beautiful and easy access to content, agnostic of device, screen size, or context. <cite>[Dan Mall](https://danielmall.com/articles/the-post-psd-era/)</cite>
 
 How did we get to the point where we sell and design websites like they're static images? During the formative years of the web we created experiences meant to be consumed solely by desktop computers, which is understandable since desktops were really the only game in town. The real estate provided by desktop screens made the idea of simply translating a PDF onto the web feasible and enticing. So that's what we did—and for a while it actually worked!
 
@@ -339,7 +339,7 @@ There's a fundamental misunderstanding that all coding is ultra-geeky programmin
 
 Organizationally, there is often a massive divide between designers and developers (or marketing and IT, or creative and engineering, or some other divisive labels). Designers and developers often sit on different floors, in different buildings altogether, in different cities, and sometimes even in different countries on different continents. While some of this organizational separation may be justified, **creating a division between designers and front-end developers is an absolutely terrible idea**.
 
-The fact remains that HTML, CSS, and presentational JavaScript build user interfaces—yes, the same user interfaces that those designers are meticulously crafting in tools like Photoshop and Sketch. For teams to build successful user interface design systems together, **it's crucial to treat [front-end development as a core part of the design process](http://bradfrost.com/blog/post/development-is-design)**.
+The fact remains that HTML, CSS, and presentational JavaScript build user interfaces—yes, the same user interfaces that those designers are meticulously crafting in tools like Photoshop and Sketch. For teams to build successful user interface design systems together, **it's crucial to treat [front-end development as a core part of the design process](https://bradfrost.com/blog/post/development-is-design)**.
 
 When you show stakeholders only static pictures of websites, they can naturally only comment and sign off on pictures of websites. This [sets the wrong expectations](https://stuffandnonsense.co.uk/blog/about/time_to_stop_showing_clients_static_design_visuals). But by **getting the design into the browser as fast as possible**, you confront stakeholders with the realities of the final medium much sooner in the process. Working in HTML, CSS, and presentational JavaScript allows teams to not only create aesthetically beautiful designs, but demonstrates those uniquely digital design considerations like:
 
@@ -402,9 +402,9 @@ Rather than jumping straight into such high-fidelity documents, it's better to *
 
 No one in their right mind would mistake this blocked out grayscale page as complete, but it provides more than enough information to have important conversations about the page structure and hierarchy.
 
-Making lo-fi wireframes *[mobile-first](http://www.lukew.com/ff/entry.asp?933)* means using the constraints of small screens to force the team to focus on the core content and hierarchy. You can now ask, "Do we have the right things on this screen?" "Are they in the right general order?"
+Making lo-fi wireframes *[mobile-first](https://www.lukew.com/ff/entry.asp?933)* means using the constraints of small screens to force the team to focus on the core content and hierarchy. You can now ask, "Do we have the right things on this screen?" "Are they in the right general order?"
 
-These blocky grayscale wireframes help establish the necessary [content patterns](http://danielmall.com/articles/content-display-patterns/) for the screen, but UX designers can also articulate some site-wide UI patterns they anticipate using to ultimately display those content patterns. For the redesign of TechCrunch, designer [Jennifer Brook](http://jenniferbrook.co/about) defined a few site-wide UI patterns that could be used anywhere:
+These blocky grayscale wireframes help establish the necessary [content patterns](https://danielmall.com/articles/content-display-patterns/) for the screen, but UX designers can also articulate some site-wide UI patterns they anticipate using to ultimately display those content patterns. For the redesign of TechCrunch, designer [Jennifer Brook](https://jenniferbrook.co/about) defined a few site-wide UI patterns that could be used anywhere:
 
 <figure>
     <img src="../images/content/techcrunch-wireframe.png" alt="For the TechCrunch website redesign, Jennifer Brook defined site-wide, gestural display patterns, which don't make assumptions about aesthetics or functionality." />
@@ -436,7 +436,7 @@ Historically, visual designers have gone about this by creating full comps—oft
 As it turns out, there's a better path to take to arrive at aesthetic values without having to do a hell of a lot of up-front design work. Let's talk about some of the tactics for making this happen.
 
 #### The 20-second gut test
-A fantastic exercise for quickly establishing aesthetic values is the [20-second gut test](http://goodkickoffmeetings.com/2010/04/the-20-second-gut-test/). Typically done as part of the project kick-off meeting, the exercise involves showing the stakeholders a handful of pertinent websites (about twenty to thirty of them) for twenty seconds each. The sites you choose should be a healthy blend of industry-specific sites and other visually interesting sites from other industries. For added believability, you can photoshop in your client's logo in place of the site's actual logo.
+A fantastic exercise for quickly establishing aesthetic values is the [20-second gut test](https://goodkickoffmeetings.com/2010/04/the-20-second-gut-test/). Typically done as part of the project kick-off meeting, the exercise involves showing the stakeholders a handful of pertinent websites (about twenty to thirty of them) for twenty seconds each. The sites you choose should be a healthy blend of industry-specific sites and other visually interesting sites from other industries. For added believability, you can photoshop in your client's logo in place of the site's actual logo.
 
 For each site presented, each person votes on a scale from 1 to 10, where a score of 1 means "If this were our site I would quit my job and cry myself to sleep," while a score of 10 means "If this were our site I would be absolutely ecstatic!" Instruct participants to consider visual properties they find interesting, such as typography, color, density, layout, illustration style, and general vibe.
 
@@ -454,7 +454,7 @@ This exercise exposes stakeholders to a variety of aesthetic directions early in
 #### Style tiles
 Once again, visual designers' first instinct is often to jump right into creating full comps to articulate an aesthetic direction for the project. This high-fidelity work is certainly tangible, but also wastes a ton of time and effort if the comps don't resonate with the stakeholders. Also, creating high-fidelity comps often makes big assumptions about technical feasibility, which leads to unrealistic expectations and antagonistic relationships with front-end developers.
 
-It's essential to establish a solid visual direction for the project, so how does a visual designer do that without burning a ton of time on up-front high-fidelity comps? That's the question that designer Samantha Warren answered when she created [style tiles](http://styletil.es/), a deliverable that's more tangible than a mood board but not as high-fidelity as a fully baked comp.
+It's essential to establish a solid visual direction for the project, so how does a visual designer do that without burning a ton of time on up-front high-fidelity comps? That's the question that designer Samantha Warren answered when she created [style tiles](https://styletil.es/), a deliverable that's more tangible than a mood board but not as high-fidelity as a fully baked comp.
 
 <figure>
     <img src="../images/content/ew-style-tile.png" alt="For the Entertainment Weekly website redesign project,  visual designers used style tiles to explore color, type, texture, and more." />
@@ -463,7 +463,7 @@ It's essential to establish a solid visual direction for the project, so how doe
 	</figcaption>
 </figure>
 
-Style tiles (along with their in-browser counterparts, [style prototypes](http://sparkbox.github.io/style-prototype/)) allow designers to explore color, typography, texture, icons, and other aspects of design atmosphere without making assumptions about layout or worrying about polish. They can be designed much faster because they're not encumbered by the expectations of high-fidelity comps, which means feedback and discussion can happen sooner.
+Style tiles (along with their in-browser counterparts, [style prototypes](https://sparkbox.github.io/style-prototype/)) allow designers to explore color, typography, texture, icons, and other aspects of design atmosphere without making assumptions about layout or worrying about polish. They can be designed much faster because they're not encumbered by the expectations of high-fidelity comps, which means feedback and discussion can happen sooner.
 
 Style tiles facilitate conversation to uncover what stakeholders value and what they don't. "Does this style tile resonate better with you rather than this one? Why?" "Why does this color palette not sit well with you?" "What is it about this typeface you like?" You can have important conversations about aesthetic design without having to create full comps.
 
@@ -472,7 +472,7 @@ Crucially, style tiles also reinforce pattern-based thinking by educating stakeh
 #### Element collages
 While style tiles are great for exploring design atmosphere, they're still a bit abstract. To get a sense of how those design ingredients will be applied to an interface, it's important to quickly move into something a bit more tangible than a style tile. But does that mean visual designers need to jump from style tiles straight into full comps? Not necessarily.
 
-Somewhere in between style tiles and full comps live [*element collages*](http://danielmall.com/articles/rif-element-collages/), which are collections of UI component design explorations. Element collages provide a playground for designers to apply design atmosphere to actual interface elements, yet still be free from layout and highly polished presentation.
+Somewhere in between style tiles and full comps live [*element collages*](https://danielmall.com/articles/rif-element-collages/), which are collections of UI component design explorations. Element collages provide a playground for designers to apply design atmosphere to actual interface elements, yet still be free from layout and highly polished presentation.
 
 <figure>
     <img src="../images/content/ew-element-collage.jpg" alt="An element collage for the Entertainment Weekly redesign." />
@@ -514,9 +514,9 @@ Let's quickly review what establishing design direction looks like across discip
 
 This work can happen concurrently but shouldn't happen in isolation. Sure, there will need to be some initial head-down time for each discipline to get set up, but all team members should be fully aware of each discipline's explorations in anticipation of working together to evolve these ideas.
 
-> Ideas are meant to be ugly. <cite>[Jason Santa Maria](http://jasonsantamaria.com/articles/piles-of-ideas)</cite>
+> Ideas are meant to be ugly. <cite>[Jason Santa Maria](https://jasonsantamaria.com/articles/piles-of-ideas)</cite>
 
-At this early stage, it's important to stress the importance of exploration, play, and idea generation. The lo-fi nature of the techniques we just discussed help encourage this exploration, allowing team members to pursue ideas that excite them. Sometimes those ideas might be best articulated as a napkin sketch, a prototype in [CodePen](http://codepen.io/), a visual exploration in Sketch, a quick wire in Balsamiq, a motion concept in After Effects, or some combination of media and tools. **The point is for the team to generate ideas and solve problems, not to enforce a rigid order of operations.** By approaching this design exploration in a cross-disciplinary way, teams can find balance between aesthetics, technical feasibility, usability, and functionality.
+At this early stage, it's important to stress the importance of exploration, play, and idea generation. The lo-fi nature of the techniques we just discussed help encourage this exploration, allowing team members to pursue ideas that excite them. Sometimes those ideas might be best articulated as a napkin sketch, a prototype in [CodePen](https://codepen.io/), a visual exploration in Sketch, a quick wire in Balsamiq, a motion concept in After Effects, or some combination of media and tools. **The point is for the team to generate ideas and solve problems, not to enforce a rigid order of operations.** By approaching this design exploration in a cross-disciplinary way, teams can find balance between aesthetics, technical feasibility, usability, and functionality.
 
 
 ## Rolling up our sleeves

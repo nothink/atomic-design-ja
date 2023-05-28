@@ -49,7 +49,7 @@ How long will a homepage take to build? Well, that sort of depends on what’s o
 
 As for the 30,000-page university website, it might be tempting to declare, “Thousands of pages?! Wow, that sounds challenging!” But in reality, those 30,000 pages may consist of three content types and two overarching layouts.
 
-Ultimately, a project’s level of effort is much better determined by the functionality and [components](http://bradfrost.com/blog/post/scope-components-not-pages/) contained within those pages, rather than on the quantity of pages themselves.
+Ultimately, a project’s level of effort is much better determined by the functionality and [components](https://bradfrost.com/blog/post/scope-components-not-pages/) contained within those pages, rather than on the quantity of pages themselves.
 
 The page metaphor has served its purpose helping users familiarize themselves with the web, and provided creators with the necessary transitional language with which to create for a brand new medium. But to build thoughtful interfaces meant to be served to a multitude of connected devices, the time has come for us to evolve beyond the page.
 
@@ -59,15 +59,15 @@ Thankfully, the web community is hard at work establishing principles and practi
 
 Modularity predates the web by a long shot. The Industrial Revolution brought about interchangeable parts and Henry Ford’s assembly line forever transformed the automobile manufacturing process. The earliest cars and components were individually crafted, which led to many safety and maintainability nightmares. Ford broke the automobile down into its component parts and modularized the assembly process. The results spoke for themselves: more uniform, more reliable, safer cars rolled out of the factory, and in record time to boot.   
 
-As the machine age became the computer age, computer scientists began practicing object-oriented programming and establishing important modular concepts like *separation of concerns* and the *single responsibility principle*. It is from this world that the World Wide Web was born, so it’s no surprise that [modular design](http://www.w3.org/DesignIssues/Principles.html#Modular) quickly became a design principle for the architecture of the web.
+As the machine age became the computer age, computer scientists began practicing object-oriented programming and establishing important modular concepts like *separation of concerns* and the *single responsibility principle*. It is from this world that the World Wide Web was born, so it’s no surprise that [modular design](https://www.w3.org/DesignIssues/Principles.html#Modular) quickly became a design principle for the architecture of the web.
 
-Slowly, but surely, these concepts found their way into web designers’ workflows. In the early 2000s we saw the introduction of libraries like [YUI](http://yuilibrary.com/) and [jQuery UI](http://jqueryui.com/) that provided developers with a toolkit of widgets and patterns to create more consistent user interfaces.
+Slowly, but surely, these concepts found their way into web designers’ workflows. In the early 2000s we saw the introduction of libraries like [YUI](https://yuilibrary.com/) and [jQuery UI](https://jqueryui.com/) that provided developers with a toolkit of widgets and patterns to create more consistent user interfaces.
 
 If modularity has been around for such a long time, why are we talking about it now?
 
 The short answer is that modularity matters more than ever. Right now, our entire industry is drowning in a sea of devices, viewport sizes, and online environments. And things aren’t slowing down anytime soon.
 
-> Disruption will only accelerate. The quantity and diversity of connected devices — many of which we haven't imagined yet — will explode, as will the quantity and diversity of the people around the world who use them. Our existing standards, workflows, and infrastructure won't hold up. Today's onslaught of devices is already pushing them to the breaking point. They can't withstand what's ahead. <cite>[The Future-Friendly manifesto](http://futurefriendlyweb.com/)</cite>
+> Disruption will only accelerate. The quantity and diversity of connected devices — many of which we haven't imagined yet — will explode, as will the quantity and diversity of the people around the world who use them. Our existing standards, workflows, and infrastructure won't hold up. Today's onslaught of devices is already pushing them to the breaking point. They can't withstand what's ahead. <cite>[The Future-Friendly manifesto](https://futurefriendlyweb.com/)</cite>
 
 <figure>
     <img src="../images/content/devices.jpg" alt="These are just some of the connected devices we need to worry about." />
@@ -88,7 +88,7 @@ Every organization is finally realizing that bulldozing their entire website and
 Out with the old! In with the new! It’s certainly an attractive prospect. But even before the launch party confetti is swept up, the calls start coming in. “You moved my cheese!” cry the users, who spent years learning the previous interface and functionality.
 
 
-When massive redesigns launch with significant changes to the experience, users get knocked down what Jared Spool calls the [“Magic Escalator of Acquired Knowledge”](http://www.uie.com/articles/magic_escalator/). Huge redesigns are a jolt to the system, and newly frustrated users have to spend a great deal of time and energy relearning the experience in order to slowly climb back up that escalator of acquired knowledge.
+When massive redesigns launch with significant changes to the experience, users get knocked down what Jared Spool calls the [“Magic Escalator of Acquired Knowledge”](https://www.uie.com/articles/magic_escalator/). Huge redesigns are a jolt to the system, and newly frustrated users have to spend a great deal of time and energy relearning the experience in order to slowly climb back up that escalator of acquired knowledge.
 
 In addition to disorienting users, these monolithic redesigns don’t get to the organizational root of the problem. Without a fundamental change in process, history is bound to repeat itself, and what’s New-And-Shiny™ today becomes Old-And-Crusty™ tomorrow. The cycle repeats itself as companies push off minor updates until the next big redesign, ultimately paralyzing themselves and frustrating users in the process.
 
@@ -99,33 +99,33 @@ Moving away from Ron Popeil-esque, set-it-and-forget-it redesigns requires delib
 ### An iterative process
 If I had a quarter for every time I heard some stakeholder declare “We’re trying to be more agile,” I’d be orbiting the earth in my private spacecraft instead of writing this book.
 
-Wanting to be more agile is commendable. But _agile_ is a loaded term, with big differences between capital-A Agile and lowercase-a agile. Capital-A Agile is a specific methodology for software development, equipped with a [manifesto](http://www.agilemanifesto.org/) and accompanying frameworks like [Scrum](http://en.wikipedia.org/wiki/Scrum_%28software_development%29) and [Lean](http://en.wikipedia.org/wiki/Lean_software_development).
+Wanting to be more agile is commendable. But _agile_ is a loaded term, with big differences between capital-A Agile and lowercase-a agile. Capital-A Agile is a specific methodology for software development, equipped with a [manifesto](https://www.agilemanifesto.org/) and accompanying frameworks like [Scrum](https://en.wikipedia.org/wiki/Scrum_%28software_development%29) and [Lean](https://en.wikipedia.org/wiki/Lean_software_development).
 
-Lowercase-a agile is more of an informal desire to create an efficient process. This desire may certainly involve adopting general [principles](http://www.agilemanifesto.org/principles.html) from capital-A Agile, but it may not involve adopting the Agile process in its entirety. Project manager Brett Harned explains:
+Lowercase-a agile is more of an informal desire to create an efficient process. This desire may certainly involve adopting general [principles](https://www.agilemanifesto.org/principles.html) from capital-A Agile, but it may not involve adopting the Agile process in its entirety. Project manager Brett Harned explains:
 
-> We want to be more agile; we’re embracing change, continuing improvement, being as flexible as possible, and adapting as we see fit. The thing is, we won’t ever truly be Agile, as the Manifesto states. That’s okay, as long as we say what we will be. <cite>[Brett Harned](http://cognition.happycog.com/article/diy-process)</cite>
+> We want to be more agile; we’re embracing change, continuing improvement, being as flexible as possible, and adapting as we see fit. The thing is, we won’t ever truly be Agile, as the Manifesto states. That’s okay, as long as we say what we will be. <cite>[Brett Harned](https://cognition.happycog.com/article/diy-process)</cite>
 
 Organizational structure, client relations, personalities, and so on all play major roles in determining a project’s process. The trick is to find the process that works best for you, your organizational constraints and opportunities.
 
 Even though it may be impossible to adopt a truly Agile process, it’s still a sound idea to work in cross-disciplinary teams, get into the final environment faster, ship early and often, and break bigger tasks into smaller components. In chapter 4, we’ll detail how to establish an effective pattern-based workflow.
 
 ### Modularizing content: I’m on Team Chunk
-> Get your content ready to go anywhere, because it’s going to go everywhere. <cite>[For A Future-Friendly Web](http://bradfrost.com/blog/web/for-a-future-friendly-web/)</cite>
+> Get your content ready to go anywhere, because it’s going to go everywhere. <cite>[For A Future-Friendly Web](https://bradfrost.com/blog/web/for-a-future-friendly-web/)</cite>
 
 Publishing content for the Web used to be a fairly straightforward endeavor, as the desktop web was the only game in town. Oh, how things have changed. Today, our content is consumed by a whole slew of smartphones, dumb phones, netbooks, notebooks, tablets, e-readers, smartwatches, TVs, game consoles, digital signage, car dashboards, and more.
 
 To properly address this increasingly diverse and eclectic digital landscape, we need to dramatically overhaul our perception of content and the tools we use to manage it.
 
-> In the future, what I believe is that we are going to have better content management and content publishing tools. We are going to have ways to take well-structured content, well-designed chunks of content that we can then figure out how we want to restructure and publish and display in a way that’s going to be right for the appropriate platform. <cite>[Karen McGrane](http://karenmcgrane.com/2012/09/04/adapting-ourselves-to-adaptive-content-video-slides-and-transcript-oh-my/)</cite>
+> In the future, what I believe is that we are going to have better content management and content publishing tools. We are going to have ways to take well-structured content, well-designed chunks of content that we can then figure out how we want to restructure and publish and display in a way that’s going to be right for the appropriate platform. <cite>[Karen McGrane](https://karenmcgrane.com/2012/09/04/adapting-ourselves-to-adaptive-content-video-slides-and-transcript-oh-my/)</cite>
 
-Thankfully, this future is starting to take shape. Organizations are recognizing the need to create modularized content to better reach their audience wherever they may be. And content management systems are evolving beyond their web publishing platform roots into tools that can elegantly create and maintain modular content. While sophisticated content management systems have existed for years in the form of custom solutions like [NPR’s COPE (Create Once, Publish Everywhere) platform](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13), smart modular thinking is making its way into mainstream content management systems.
+Thankfully, this future is starting to take shape. Organizations are recognizing the need to create modularized content to better reach their audience wherever they may be. And content management systems are evolving beyond their web publishing platform roots into tools that can elegantly create and maintain modular content. While sophisticated content management systems have existed for years in the form of custom solutions like [NPR’s COPE (Create Once, Publish Everywhere) platform](https://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13), smart modular thinking is making its way into mainstream content management systems.
 
 ### Classy code
 Modularity has long been a staple principle in the world of computer science, as we discussed earlier. While this principle existed long before the web was invented, it has taken some time for modularity to become engrained in the minds and hearts of web developers.
 
-Despite being around since 1995, JavaScript, the programming language of the web, first had to endure some growing pains to mature into the capable, respected language it is today. Now that JavaScript has grown up, developers can apply those tried-and-true computer science principles to their web development workflows. As a result, we’re seeing folks develop sophisticated [JavaScript patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) and architectures.
+Despite being around since 1995, JavaScript, the programming language of the web, first had to endure some growing pains to mature into the capable, respected language it is today. Now that JavaScript has grown up, developers can apply those tried-and-true computer science principles to their web development workflows. As a result, we’re seeing folks develop sophisticated [JavaScript patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) and architectures.
 
-Applying modular programming principles to JavaScript is a bit of a no-brainer, since JavaScript is itself a programming language. But object-oriented thinking is weaving its way into other aspects of the web as well, including CSS, the styling language of the web. Methodologies like [OOCSS](http://oocss.org/), [SMACSS](https://smacss.com/), and [BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax) have cropped up to help web designers create and maintain modular CSS architectures.
+Applying modular programming principles to JavaScript is a bit of a no-brainer, since JavaScript is itself a programming language. But object-oriented thinking is weaving its way into other aspects of the web as well, including CSS, the styling language of the web. Methodologies like [OOCSS](https://oocss.org/), [SMACSS](https://smacss.com/), and [BEM](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax) have cropped up to help web designers create and maintain modular CSS architectures.
 
 ### Visually repaired
 
@@ -135,9 +135,9 @@ As the number of viewports and environments proliferate, it’s become untenable
 
 That’s not to say static design tools like Photoshop and Sketch aren’t important. Far from it. But it’s the way we use these tools that has changed dramatically. While creating hundreds of full-on comps isn’t realistic, these static tools excel at providing a playground to establish what Andy Clarke calls “design atmosphere”:
 
-> Atmosphere describes the feelings we get that are evoked by colour, texture and typography. You might already think of atmosphere in different terms. You might call it “feel”, “mood” or even “visual identity.” Whatever words you choose, the atmosphere of a design doesn’t depend on layout. It’s independent of arrangement and visual placement. It will be seen, or felt, at every screen size and on every device. <cite>[Andy Clarke](http://stuffandnonsense.co.uk/blog/about/an-extract-from-designing-atoms-and-elements)</cite>
+> Atmosphere describes the feelings we get that are evoked by colour, texture and typography. You might already think of atmosphere in different terms. You might call it “feel”, “mood” or even “visual identity.” Whatever words you choose, the atmosphere of a design doesn’t depend on layout. It’s independent of arrangement and visual placement. It will be seen, or felt, at every screen size and on every device. <cite>[Andy Clarke](https://stuffandnonsense.co.uk/blog/about/an-extract-from-designing-atoms-and-elements)</cite>
 
-Establishing design atmosphere early is critical to a project’s success, which is why designers have found ways to facilitate these important conversations without having to generate full mockups. Designer Samantha Warren developed design artifacts called [style tiles](http://styletil.es/), which demonstrate color, type, and texture explorations in a nice encapsulated one-pager. Designer Dan Mall built on Samantha’s idea with a concept called [element collages](http://danielmall.com/articles/rif-element-collages/), which demonstrate design atmosphere explorations in an exploded collage of interface elements.
+Establishing design atmosphere early is critical to a project’s success, which is why designers have found ways to facilitate these important conversations without having to generate full mockups. Designer Samantha Warren developed design artifacts called [style tiles](https://styletil.es/), which demonstrate color, type, and texture explorations in a nice encapsulated one-pager. Designer Dan Mall built on Samantha’s idea with a concept called [element collages](https://danielmall.com/articles/rif-element-collages/), which demonstrate design atmosphere explorations in an exploded collage of interface elements.
 
 <figure>
     <img src="../images/content/style-tiles.jpg" alt="Style tiles, a concept created by designer Samantha Warren, allow designers to explore color, typography, and texture without having to develop fully realized comps." />
@@ -149,16 +149,16 @@ Establishing design atmosphere early is critical to a project’s success, which
 By breaking visual explorations into smaller chunks, designers save time and effort while avoiding presenting unrealistic, premature layouts to clients. More importantly, these approaches shift stakeholders away from simply reacting to a pretty picture, and instead facilitate crucial conversations about overall design direction and how they relate to the project’s goals. We’ll discuss these concepts in more detail in chapter 4, but suffice it to say the visual design workflow is changing in a big way!
 
 ### Systematic UI design
-> We’re not designing pages, we’re designing systems of components. <cite>[Stephen Hay](http://bradfrost.com/blog/mobile/bdconf-stephen-hay-presents-responsive-design-workflow/)</cite>
+> We’re not designing pages, we’re designing systems of components. <cite>[Stephen Hay](https://bradfrost.com/blog/mobile/bdconf-stephen-hay-presents-responsive-design-workflow/)</cite>
 
 What is an interface made of? What are our Lego bricks? What are our Subway sandwich pieces that we combine into millions of delicious combinations? It’s these questions that we’ve been asking ourselves more and more now that we’re sending our interfaces to more and more places.
 
-A few years ago Ethan Marcotte introduced us to the idea of [responsive web design](http://alistapart.com/article/responsive-web-design) and its three core tenets: fluid grids, flexible media, and CSS media queries. These three ingredients provided a much-needed foundation for designers to create flexible layouts that smartly adapt to any screen size. Perhaps more importantly, responsive design helped get designers excited about creating thoughtful, adaptable, multi-device web experiences.
+A few years ago Ethan Marcotte introduced us to the idea of [responsive web design](https://alistapart.com/article/responsive-web-design) and its three core tenets: fluid grids, flexible media, and CSS media queries. These three ingredients provided a much-needed foundation for designers to create flexible layouts that smartly adapt to any screen size. Perhaps more importantly, responsive design helped get designers excited about creating thoughtful, adaptable, multi-device web experiences.
 
 
 As designers quickly discovered, creating multi-device web experiences involves a lot more than creating squishy pages. Each individual piece of an interface contains its own unique challenges and opportunities in order for it to look and function beautifully across many screen sizes and environments.
 
-How can we present primary navigation – typically displayed as a horizontal list on large screens – in a thoughtful way on smaller screens? How do lightboxes, breadcrumbs, and carousels translate to smaller viewports and alternate input types? It’s these questions that led me to create [This Is Responsive](http://bradfrost.github.io/this-is-responsive/index.html), a showcase of responsive patterns that demonstrate the various ways a particular component could be executed in a responsive environment.
+How can we present primary navigation – typically displayed as a horizontal list on large screens – in a thoughtful way on smaller screens? How do lightboxes, breadcrumbs, and carousels translate to smaller viewports and alternate input types? It’s these questions that led me to create [This Is Responsive](https://bradfrost.github.io/this-is-responsive/index.html), a showcase of responsive patterns that demonstrate the various ways a particular component could be executed in a responsive environment.
 
 While This Is Responsive is successful at articulating how these interface patterns can scale across screen sizes and environments, it’s still up to designers and developers to put these patterns into action. And as it turns out, that’s a lot of work.
 
@@ -166,7 +166,7 @@ While This Is Responsive is successful at articulating how these interface patte
 Designers and developers are already strapped for time and resources, and they’re now being tasked with making interfaces that look and function beautifully in any environment. That’s a very tall order.
 
 
-This need to address growing device diversity while still sanely getting projects out the door has given rise to front-end frameworks like [Foundation by Zurb](http://foundation.zurb.com/) and [Bootstrap](http://getbootstrap.com/). These user interface frameworks provide designers with a collection of preassembled HTML patterns, CSS styles, and JavaScript to add functionality to interactive components like dropdowns and carousels. In essence, these frameworks are handy tool kits for quickly assembling interfaces.
+This need to address growing device diversity while still sanely getting projects out the door has given rise to front-end frameworks like [Foundation by Zurb](https://foundation.zurb.com/) and [Bootstrap](https://getbootstrap.com/). These user interface frameworks provide designers with a collection of preassembled HTML patterns, CSS styles, and JavaScript to add functionality to interactive components like dropdowns and carousels. In essence, these frameworks are handy tool kits for quickly assembling interfaces.
 
 <figure>
     <img src="../images/content/bootstrap-components.png" alt="Bootstrap provides a collection of UI components to speed up development." />
@@ -210,7 +210,7 @@ And then there’s the issue with naming. Using a framework means subscribing to
 
 Now that we’ve put frameworks through the wringer, it’s important to take a step back and recognize that conceptually these frameworks are very much on point. It’s an excellent idea to work with a design tool kit that promotes consistency and speeds up development time. While discussing the redesign of Microsoft’s homepage by Austin-based web shop Paravel, developer Dave Rupert stressed the importance of creating and delivering a design system to their client. Dave wonderfully articulated that it’s not necessarily about using Bootstrap for every client, but rather creating “tiny Bootstraps for every client.”
 
-> Responsive deliverables should look a lot like fully-functioning Twitter Bootstrap-style systems custom tailored for your clients’ needs. These living code samples are self-documenting style guides that extend to accommodate a client’s needs as well as the needs of the ever-evolving multi-device web. <cite>[Dave Rupert](http://daverupert.com/2013/04/responsive-deliverables/)</cite>
+> Responsive deliverables should look a lot like fully-functioning Twitter Bootstrap-style systems custom tailored for your clients’ needs. These living code samples are self-documenting style guides that extend to accommodate a client’s needs as well as the needs of the ever-evolving multi-device web. <cite>[Dave Rupert](https://daverupert.com/2013/04/responsive-deliverables/)</cite>
 
 It’s not just about using a design system, it’s about creating *your* system.
 
@@ -220,7 +220,7 @@ So what do robust design systems look like? What form do they take? How do you c
 
 The cornerstones of good design systems are *style guides*, which document and organize design materials while providing guidelines, usage, and guardrails.
 
-As it happens, there are [many flavors of style guides](http://bradfrost.com/blog/post/style-guides/), including documentation for brand identity, writing, voice and tone, code, design language, and user interface patterns. This book won’t detail every category of style guide, but it’s important to take a look at each to better understand how each style guide influences the others, and how style guides for the web fit into a larger ecosystem.
+As it happens, there are [many flavors of style guides](https://bradfrost.com/blog/post/style-guides/), including documentation for brand identity, writing, voice and tone, code, design language, and user interface patterns. This book won’t detail every category of style guide, but it’s important to take a look at each to better understand how each style guide influences the others, and how style guides for the web fit into a larger ecosystem.
 
 ### Brand identity
 Brand identity guidelines define the assets and materials that make a company unique. Logos, typography, color palettes, messaging (such as mission statements and taglines), collateral (such as business card and PowerPoint templates), and more are aggregated and described in brand identity guidelines.
@@ -239,7 +239,7 @@ Historically, brand identity guidelines were contained in hard-cover books (reme
 ### Design language
 While brand identity guidelines are fairly tactile, design language guidelines are a bit harder to pin down. Design language style guides articulate a general design direction, philosophy, and approach to specific projects or products.
 
-To present itself in a cohesive way across a growing range of products and media, Google developed a design language called *material design*. The [material design style guide](http://www.google.com/design/spec/material-design/introduction.html) defines its overarching design philosophy, goals, and general principles, while also providing specific applications of the material design language.
+To present itself in a cohesive way across a growing range of products and media, Google developed a design language called *material design*. The [material design style guide](https://www.google.com/design/spec/material-design/introduction.html) defines its overarching design philosophy, goals, and general principles, while also providing specific applications of the material design language.
 
 <figure>
     <img src="../images/content/styleguide-material.png" alt="Google’s material design language." />
@@ -255,12 +255,12 @@ Design language guidelines aren’t set in stone the way brand guidelines are. F
 ### Voice and tone
 People interact with brands across a huge array of channels and media. In addition to the digital media we've discussed so far, brands also operate in print, retail, outdoor, radio, TV, and other channels. When a brand must communicate across so many varied touchpoints, speaking in a unified, consistent manner becomes critical to a brand’s success.  
 
-> A brand’s voice stays the same from day to day, but its tone has to change all the time, depending on both the situation and the reader’s feelings. <cite>[Kate Kiefer Lee](http://www.slideshare.net/katekiefer/kkl-c-sforum)</cite>
+> A brand’s voice stays the same from day to day, but its tone has to change all the time, depending on both the situation and the reader’s feelings. <cite>[Kate Kiefer Lee](https://www.slideshare.net/katekiefer/kkl-c-sforum)</cite>
 
 
 Voice is an elemental aspect of a brand’s identity, so typically brand identity guidelines include some reference to the brand's voice. However, these guidelines usually aren’t very nuanced, which is why voice and tone guidelines are so important.
 
-Voice and tone guidelines get into the weeds by articulating how the company’s voice and tone should shift across a variety of scenarios. [MailChimp’s brilliant voice and tone guidelines](http://voiceandtone.com/) define how the brand’s tone changes across content types, so that when a user’s credit card is declined, writers know to shift away from their generally cheeky and playful tone of voice and adopt a more serious tone instead.
+Voice and tone guidelines get into the weeds by articulating how the company’s voice and tone should shift across a variety of scenarios. [MailChimp’s brilliant voice and tone guidelines](https://voiceandtone.com/) define how the brand’s tone changes across content types, so that when a user’s credit card is declined, writers know to shift away from their generally cheeky and playful tone of voice and adopt a more serious tone instead.
 
 <figure>
     <img src="../images/content/styleguide-voiceandtone.png" alt="MailChimp’s Voice and Tone guidelines" />
@@ -279,7 +279,7 @@ The rise of the web and content-managed websites makes it easier than ever for m
 	</figcaption>
 </figure>
 
-Writing style guides can be extremely granular, defining particulars around punctuation and grammar, but they don’t always have to be so detailed. [Dalhousie University’s writing style guide](http://www.dal.ca/webteam/web_style_guide/writing_for_the_web.html) provides a concise list of principles and best practices for content contributors to follow.
+Writing style guides can be extremely granular, defining particulars around punctuation and grammar, but they don’t always have to be so detailed. [Dalhousie University’s writing style guide](https://www.dal.ca/webteam/web_style_guide/writing_for_the_web.html) provides a concise list of principles and best practices for content contributors to follow.
 
 ### Code style guides
 It’s essential for teams to write legible, scalable, maintainable code. But without a way to promote and enforce code consistency, it’s easy for things to fall apart and leave every developer to fend for themselves.
@@ -339,9 +339,9 @@ As the number of people working on a project increases, it becomes all too easy 
 **Style guides establish a consistent, shared vocabulary between everyone involved in a project**, encouraging collaboration between disciplines and reducing communication breakdowns.
 
 ### Education
-In her book <cite>[Front-End Style Guides](http://maban.co.uk/projects/front-end-style-guides/)</cite>, Anna Debenham deftly explains the many advantages of creating style guides, including one of the most crucial benefits: education.
+In her book <cite>[Front-End Style Guides](https://maban.co.uk/projects/front-end-style-guides/)</cite>, Anna Debenham deftly explains the many advantages of creating style guides, including one of the most crucial benefits: education.
 
-> Education is as important as documentation. A style guide can show clients that websites are systems rather than collections of pages. <cite>[Anna Debenham](http://maban.co.uk/projects/front-end-style-guides/)</cite>
+> Education is as important as documentation. A style guide can show clients that websites are systems rather than collections of pages. <cite>[Anna Debenham](https://maban.co.uk/projects/front-end-style-guides/)</cite>
 
 Style guides demonstrate to clients, stakeholders, and other disciplines that there's a lot of really thoughtful work going into a website's design and development beyond just "Hey, let's make a new website." **A pattern library communicates the design language in a very tangible way**, which helps stakeholders understand that an underlying system is determining the final interface.
 
@@ -364,9 +364,9 @@ Earlier in the chapter we discussed how *faster design and development* is one o
 
 It's true that devising an interface design system and creating a custom pattern library initially takes a lot of time, thought, and effort. But once the pattern library is established, subsequent design and development becomes much faster, which tends to make everybody happy.
 
-Federico Holgado, lead UX developer at MailChimp, [explained](http://styleguides.io/podcast/federico-holgado/) how MailChimp's pattern library initially consisted of patterns created from the four primary screens of their app. But once they moved on to other areas of the site, they realized they were able to use existing patterns rather than having to generate brand new patterns from scratch every time.
+Federico Holgado, lead UX developer at MailChimp, [explained](https://styleguides.io/podcast/federico-holgado/) how MailChimp's pattern library initially consisted of patterns created from the four primary screens of their app. But once they moved on to other areas of the site, they realized they were able to use existing patterns rather than having to generate brand new patterns from scratch every time.
 
-> …Once we did that, as we were implementing things in other pages we started to realize: man, this system will actually work here and this system will actually work here and here. <cite>[Federico Holgado](http://styleguides.io/podcast/federico-holgado/)</cite>
+> …Once we did that, as we were implementing things in other pages we started to realize: man, this system will actually work here and this system will actually work here and here. <cite>[Federico Holgado](https://styleguides.io/podcast/federico-holgado/)</cite>
 
 ### In it for the long haul
 There's no doubt style guides help teams effectively get things done in the here and now. But much like a fine wine, style guides increase in value over time. The beautiful thing about interface design systems is that they can and should be modified, extended, and refined for years to come.
@@ -384,7 +384,7 @@ To benefit from style guides, organizations must first appropriate the necessary
 The long-term benefits that style guides provide are obvious to those who are already thinking about the long game. The challenge, therefore, becomes convincing those stuck in a short-term, quarter-by-quarter mindset that establishing a thoughtful design system is a smart investment in the future.
 
 ### A matter of time
-> The hard part is building the machine that builds the product.” <cite>[Dennis Crowley](http://techcrunch.com/2011/03/03/founder-stories-foursquare-crowley-machine/) </cite>
+> The hard part is building the machine that builds the product.” <cite>[Dennis Crowley](https://techcrunch.com/2011/03/03/founder-stories-foursquare-crowley-machine/) </cite>
 
 Perhaps the biggest, most unavoidable challenge is that **style guides are time-consuming to create**. I don't know about you, but I don't go into work every day twiddling my thumbs wondering what to do with my time. I've never met a person who isn't feeling pressure to get work out the door, and this pressure naturally leads to focusing on the primary web project. Unfortunately, aggressive timelines and finite budgets detract from the effort required to make style guides happen, even when teams are committed to the cause.
 
@@ -427,7 +427,7 @@ Context is key to understanding a design system. Unfortunately, most pattern lib
 </figure>
 
 ### Lacking a clear methodology
-As much as I adore the pattern libraries [out there](http://styleguides.io/examples.html), I can't help but notice a lack of structure in many of them. Don't get me wrong, I think it's absolutely fantastic that teams are thinking systematically and are documenting their UI patterns. But I often feel like many pattern libraries are little more than loosely arranged sprays of modules. I think there's room for improvement.
+As much as I adore the pattern libraries [out there](https://styleguides.io/examples.html), I can't help but notice a lack of structure in many of them. Don't get me wrong, I think it's absolutely fantastic that teams are thinking systematically and are documenting their UI patterns. But I often feel like many pattern libraries are little more than loosely arranged sprays of modules. I think there's room for improvement.
 
 ## In search of an interface design methodology
 For us to create experiences for this eclectic web landscape, we must evolve beyond the page metaphor that's been with us since the birth of the web. Thankfully, organizations are embracing modularity across every aspect of the web creation process, which is leading to smarter work and more sustainable systems.

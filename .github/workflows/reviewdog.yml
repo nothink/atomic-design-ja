@@ -8,6 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
       - uses: tsuyoshicho/action-textlint@v3
         with:
           github_token: ${{ secrets.github_token }}

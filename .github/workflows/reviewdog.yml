@@ -16,4 +16,4 @@ jobs:
           github_token: ${{ secrets.github_token }}
           reporter: github-pr-review
           level: warning
-          textlint_flags: _includes/ _layouts/ foreword.md
+          textlint_flags: foreword.md

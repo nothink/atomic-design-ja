@@ -9,6 +9,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
+      - name: npm install
+        run: npm install
       - uses: tsuyoshicho/action-textlint@v3
         with:
           github_token: ${{ secrets.github_token }}

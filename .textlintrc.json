@@ -1,9 +1,18 @@
 {
-  "plugins": {},
+  "plugins": {
+    "html": {},
+    "@textlint/markdown": {
+      "extensions": [".md"]
+    }
+  },
   "filters": {},
   "rules": {
+    "preset-japanese": true,
     "preset-ja-spacing": true,
     "preset-ja-technical-writing": true,
+    "@proofdict/proofdict": {
+      "dictURL": "https://azu.github.io/proof-dictionary/"
+    },
     "prh": {
       "rulePaths": [
         "node_modules/prh/prh-rules/media/WEB+DB_PRESS.yml",
